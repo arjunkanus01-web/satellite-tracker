@@ -1,2 +1,12 @@
 # satellite-tracker
 I am making a satellite tracker project which has lcd and the rtl kit and rfid authentication and servo pointer.arduino nano.it can search and find satellites calculate path display them on a 3d rotatable sphere and when satellites are passing it will automatically configure with the rtl to decode photo if it is weather satellite.i am using vs code
+Parts
+Arduino nano
+rtl sdr v4 kit
+lcd touchscreen
+rfid
+servo with pointer
+
+using vs code-python,arduino
+
+
