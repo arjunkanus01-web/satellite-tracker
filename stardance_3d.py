@@ -223,4 +223,8 @@ fig.update_layout(
     font=dict(color="white"),
     margin=dict(l=0, r=0, t=50, b=0)
 )
-fig.show(config={"scrollZoom":True})
+fig.write_html(
+    "index.html",
+    include_plotlyjs=True,
+    config={"scrollZoom": True}
+)
